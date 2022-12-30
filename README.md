@@ -12,7 +12,7 @@ List of algorithms:
 8. Ant Colony Optimization applied to Travelling Salesman Problem 
 9. Firefly Algorithm 
 10. Teaching-learning Based Optimization </br>
-Preview:
+Preview:</br>
 ![alt text](https://github.com/Thechopsee/BIAlgorithms/blob/main/img/ACO.gif "Logo Title Text 1")
 ![alt text](https://github.com/Thechopsee/BIAlgorithms/blob/main/img/auckleypso.gif "Logo Title Text 1")
 ![alt text](https://github.com/Thechopsee/BIAlgorithms/blob/main/img/levyfrf.gif "Logo Title Text 1")
